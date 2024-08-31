@@ -1,0 +1,48 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    display: flex;
+    justify-content:center;
+    align-items:center;
+    background-color:#e09f7d;
+}
+.container{
+height:  70vh;
+width:  70vmin;
+display:  flex;
+justify-content:  center;
+align-items:  center;
+border:  none;
+
+
+}
+form input{
+    border: 1px solid lightgrey;
+    font-size: 1rem;
+    height: 3rem;
+    padding-left: 0.5rem;
+}
+.dropdown{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+ margin-top: 0.5rem;
+}
+.messy{
+    display: flex;
+    justify-content: center;
+
+}
+.org{
+   display: flex;
+   justify-content: center;
+   align-items: center; 
+   margin-top: 0.5cap;
+}
+.btnm{
+    display: flex;
+    justify-self: center;
+    align-items: center;
+}
